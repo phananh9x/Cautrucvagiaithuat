@@ -801,7 +801,7 @@ void LayDS_MH(list_MH &listMH,char *tenfile){
 	file.close();	
 	}
 //*******Sua mon hoc**************////////////
-
+//*******Sua mon hoc**************////////////
 int Sua_MH(list_MH &listMH,int vitri,char *MAMH){
 	MONHOC mh;
 	char stclt[4],stcth[4];
