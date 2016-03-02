@@ -48,7 +48,6 @@ struct list_MH
 	int n;
 	MONHOC mh[MAXLIST];	
 };
-//*******Sua mon hoc**************////////////
 struct SINHVIEN
 {
 	char MASV[30];
